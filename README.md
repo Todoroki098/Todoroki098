@@ -12,6 +12,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Todoroki098&style=flat-square&color=blue" alt="account counter"/>
 </div>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 **Todoroki098/Todoroki098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
